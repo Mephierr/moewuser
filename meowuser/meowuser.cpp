@@ -8,6 +8,10 @@ HINSTANCE hInst;                          // Текущий экземпляр
 WCHAR szTitle[MAX_LOADSTRING];            // Заголовок окна
 WCHAR szWindowClass[MAX_LOADSTRING];      // Имя класса главного окна
 
+// Идентификаторы элементов управления
+#define IDC_BUTTON 101
+#define IDC_EDIT   102
+
 // Прототипы функций:
 ATOM MyRegisterClass(HINSTANCE hInstance);
 BOOL InitInstance(HINSTANCE, int);
@@ -68,6 +72,14 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 
     if (!hWnd) return FALSE;
 
+    // Создание кнопки
+    CreateWindowW(L"BUTTON", L"Нажми меня", WS_CHILD | WS_VISIBLE | BS_PUSHBUTTON,
+        10, 10, 200, 30, hWnd, (HMENU)IDC_BUTTON, hInstance, nullptr);
+
+    // Создание текстового поля
+    CreateWindowW(L"EDIT", L"Текст", WS_CHILD | WS_VISIBLE | WS_BORDER,
+        10, 50, 200, 25, hWnd, (HMENU)IDC_EDIT, hInstance, nullptr);
+
     ShowWindow(hWnd, nCmdShow);
     UpdateWindow(hWnd);
 
@@ -83,6 +95,17 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
         int wmId = LOWORD(wParam);
         switch (wmId)
         {
+        case IDC_BUTTON:  // Когда нажали на кнопку
+        {
+            // Получаем текст из текстового поля
+            HWND hEdit = GetDlgItem(hWnd, IDC_EDIT);
+            WCHAR text[100];
+            GetWindowTextW(hEdit, text, 100);
+
+            // Изменяем текст в текстовом поле
+            SetWindowTextW(hEdit, L"Кнопка нажата!");
+            break;
+        }
         case IDM_ABOUT:
             DialogBox(hInst, MAKEINTRESOURCE(IDD_ABOUTBOX), hWnd, About);
             break;

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\error\\source\\repos\\Mephierr\\moewuser\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\error\\source\\repos\\Mephierr\\moewuser\\meowuser\\meowuser\\Debug\\vc143.idb||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:meowuser\\meowuser\\Debug\\vc143.idb||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\error\\source\\repos\\Mephierr\\moewuser\\meowuser\\meowuser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:meowuser\\meowuser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -50,11 +54,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "vc143.idb",
+              "DocumentMoniker": "C:\\Users\\error\\source\\repos\\Mephierr\\moewuser\\meowuser\\meowuser\\Debug\\vc143.idb",
+              "RelativeDocumentMoniker": "meowuser\\meowuser\\Debug\\vc143.idb",
+              "ToolTip": "C:\\Users\\error\\source\\repos\\Mephierr\\moewuser\\meowuser\\meowuser\\Debug\\vc143.idb",
+              "RelativeToolTip": "meowuser\\meowuser\\Debug\\vc143.idb",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADySURBVDhPpZKxzcMgEIWfab2MZ8AuGQO5vBWSOTwAXZLGrWdwQw1LwLX3N7FjE0d/rHwS0vGOe\u002BIOgA3MPKeUmmcsWmvRWgszCwCklBpmntcCEVGbegBolFJzzvla6Mg5X5VSM4BmFauqKg1ARIgxXko9xngholLGm0EIAUQE59yqOedARAgh7M7iyKDrOuBZtLDES25LtQxoyzRNGIYBOWcAQF3X6PsebduWR1/TZubd8t6LtVasteK9f8uvr/PJ4L\u002B11OxmYIyBMebrPY6GeJpfW6iYWcprfcs4jsct3G8P3G\u002BPj/sthwZn\u002BLmFw594hj8fvxP6qS8RkAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-01-28T15:22:57.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "small.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
               "DocumentMoniker": "C:\\Users\\error\\source\\repos\\Mephierr\\moewuser\\meowuser\\small.ico",
               "RelativeDocumentMoniker": "meowuser\\small.ico",
@@ -66,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "targetver.h",
               "DocumentMoniker": "C:\\Users\\error\\source\\repos\\Mephierr\\moewuser\\meowuser\\targetver.h",
               "RelativeDocumentMoniker": "meowuser\\targetver.h",
@@ -74,12 +89,11 @@
               "RelativeToolTip": "meowuser\\targetver.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-28T15:04:14.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T15:04:14.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "meowuser.rc",
               "DocumentMoniker": "C:\\Users\\error\\source\\repos\\Mephierr\\moewuser\\meowuser\\meowuser.rc",
               "RelativeDocumentMoniker": "meowuser\\meowuser.rc",
@@ -87,12 +101,11 @@
               "RelativeToolTip": "meowuser\\meowuser.rc",
               "ViewState": "AgIAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-01-28T15:04:01.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T15:04:01.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "meowuser.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
               "DocumentMoniker": "C:\\Users\\error\\source\\repos\\Mephierr\\moewuser\\meowuser\\meowuser.ico",
               "RelativeDocumentMoniker": "meowuser\\meowuser.ico",
@@ -104,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "meowuser.h",
               "DocumentMoniker": "C:\\Users\\error\\source\\repos\\Mephierr\\moewuser\\meowuser\\meowuser.h",
               "RelativeDocumentMoniker": "meowuser\\meowuser.h",
@@ -112,12 +125,11 @@
               "RelativeToolTip": "meowuser\\meowuser.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-28T15:03:55.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T15:03:55.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "meowuser.vcxproj.filters",
               "DocumentMoniker": "C:\\Users\\error\\source\\repos\\Mephierr\\moewuser\\meowuser\\meowuser.vcxproj.filters",
               "RelativeDocumentMoniker": "meowuser\\meowuser.vcxproj.filters",
@@ -125,12 +137,11 @@
               "RelativeToolTip": "meowuser\\meowuser.vcxproj.filters",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-28T15:03:47.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T15:03:47.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "meowuser.cpp",
               "DocumentMoniker": "C:\\Users\\error\\source\\repos\\Mephierr\\moewuser\\meowuser\\meowuser.cpp",
               "RelativeDocumentMoniker": "meowuser\\meowuser.cpp",
@@ -143,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "meowuser.vcxproj.user",
               "DocumentMoniker": "C:\\Users\\error\\source\\repos\\Mephierr\\moewuser\\meowuser\\meowuser.vcxproj.user",
               "RelativeDocumentMoniker": "meowuser\\meowuser.vcxproj.user",
@@ -151,12 +162,11 @@
               "RelativeToolTip": "meowuser\\meowuser.vcxproj.user",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2025-01-28T15:03:45.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T15:03:45.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "meowuser.vcxproj",
               "DocumentMoniker": "C:\\Users\\error\\source\\repos\\Mephierr\\moewuser\\meowuser\\meowuser.vcxproj",
               "RelativeDocumentMoniker": "meowuser\\meowuser.vcxproj",
@@ -164,12 +174,11 @@
               "RelativeToolTip": "meowuser\\meowuser.vcxproj",
               "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000698|",
-              "WhenOpened": "2025-01-28T15:03:38.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T15:03:38.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "framework.h",
               "DocumentMoniker": "C:\\Users\\error\\source\\repos\\Mephierr\\moewuser\\meowuser\\framework.h",
               "RelativeDocumentMoniker": "meowuser\\framework.h",
@@ -177,8 +186,7 @@
               "RelativeToolTip": "meowuser\\framework.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-28T07:22:46.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T07:22:46.953Z"
             }
           ]
         }
